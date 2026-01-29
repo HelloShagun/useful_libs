@@ -105,5 +105,3 @@ class WaybackDownloader:
         
         # Execute using the directory name from the text box
         self.run_download(bbox, int(self.viewer.m.zoom), self.dir_input.value)
- 
-why download via coordinates not working
